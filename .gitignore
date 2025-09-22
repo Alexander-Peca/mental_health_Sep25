@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / Conda
+__pycache__/
+*.pyc
+.venv/
+.env
+.envrc
+.conda/
+*.egg-info/
+
+# Office docs
+*.doc
+*.docx
+*.dot
+*.dotx
+*.docm
+
+# Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+
+# PowerPoint
+*.ppt
+*.pptx
+*.pptm
+*.potx
+*.potm
+
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+
+# Data & models (keep large/raw out of git)
+01_data/raw/
+01_data/external/
+01_data/interim/
+06_reports/_build/
+07_deploy/artifacts/
+
+# Kaggle creds
+.kaggle/
+kaggle.json
+
+# DVC (if used later)
+.dvc/
+*.dvc
