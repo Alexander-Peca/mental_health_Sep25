@@ -1,4 +1,3 @@
-# Mental Health Project (Sep 2025)
 Mental Health Literacy Intervention Analysis
 
 Objective:
