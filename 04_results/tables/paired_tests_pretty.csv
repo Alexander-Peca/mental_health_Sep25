@@ -1,0 +1,13 @@
+outcome_group,variable,label,n,mean_pre,mean_post,mean_diff,ci_95,t,p,cohen_dz,shapiro_p
+Primary,mhl_total,Mental Health Literacy - Total,51,65.18,69.02,3.84,"[0.71, 6.97]",2.47,0.017,0.35,0.17873575744947273
+Secondary,mhl_kmhp,Mental Health Literacy - Knowledge of mental health problems,51,24.14,25.16,1.02,"[-0.58, 2.62]",1.28,0.206,0.18,0.5132577146152797
+Secondary,mhl_ebs,Mental Health Literacy - Erroneous beliefs/stereotypes,51,12.41,13.37,0.96,"[0.33, 1.59]",3.08,0.003,0.43,0.1973943791695486
+Secondary,mhl_fashsb,Mental Health Literacy - First aid skills and help seeking behaviour,51,12.1,12.98,0.88,"[0.03, 1.73]",2.09,0.042,0.29,0.07790536078193604
+Secondary,mhl_shs,Mental Health Literacy - Self-help strategies,51,16.53,17.51,0.98,"[0.23, 1.73]",2.62,0.012,0.37,0.005108176627588904
+Exploratory,mhses,Mental Health Self Efficacy,51,35.39,42.24,6.84,"[2.66, 11.03]",3.28,0.002,0.46,0.30420757255753106
+Exploratory,mhsas,Mental Help seeking Attitude,51,5.81,6.02,0.21,"[-0.21, 0.63]",1.02,0.315,0.14,0.12255111394556384
+Exploratory,stig,Stigma,51,16.73,14.55,-2.18,"[-4.60, 0.25]",-1.8,0.077,-0.25,0.11988879406894987
+Exploratory,spane_p,Scale of Positive and Negative Experiences - Positive,51,19.37,19.69,0.31,"[-1.35, 1.98]",0.38,0.707,0.05,0.3917175467404556
+Exploratory,spane_n,Scale of Positive and Negative Experiences - Negative,51,17.61,18.65,1.04,"[-0.36, 2.43]",1.5,0.141,0.21,0.6064873608889628
+Exploratory,spane_b,Scale of Positive and Negative Experiences - Balanced,51,1.76,1.04,-0.73,"[-3.58, 2.13]",-0.51,0.612,-0.07,0.9237180784368485
+Exploratory,flousc,Flourishing,51,40.37,40.8,0.43,"[-2.90, 3.77]",0.26,0.796,0.04,0.5509505830681101

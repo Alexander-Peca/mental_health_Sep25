@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mh"
+version = "0.1.0"
+description = "Mental Health analysis utilities"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pandas", "matplotlib", "scipy"]
+
+[tool.setuptools]
+package-dir = {"" = "03_src"}
+
+# Option A: auto-discover packages under 03_src
+[tool.setuptools.packages.find]
+where = ["03_src"]
+
+# (Option B instead of find)
+# packages = ["mh"]
+
